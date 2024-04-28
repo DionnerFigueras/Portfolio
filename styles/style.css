@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap');
+
+@import 'inicio.css'; /*Seccion de inicio*/
+@import 'servicios.css'; /*Seccion de servicios*/
+@import 'habilidades.css'; /*Seccion de habilidades*/
+@import 'trabajos.css'; /*Seccion de trabajos*/
+@import 'contacto.css'; /*Seccion de contacto*/
+@import 'responsive.css'; /*Seccion responsiva*/
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Onest';
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #f6fafc;
+}
+
+footer{
+    background-color: #000;
+    color: #fff;
+    padding: 7px 0;
+    font-size: 14px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
